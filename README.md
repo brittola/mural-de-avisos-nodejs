@@ -3,6 +3,11 @@
 Mural de Avisos com NodeJS, apenas com funções de adicionar e excluir posts.
 Esse foi o meu primeiro projeto com NodeJS, então é muito simples.
 
+Front-End:
+- HTML
+- Bootstrap
+- JavaScript
+
 ### Dependências:
 - Express `npm install express`;
 - Cors `npm install cors`;
